@@ -1,6 +1,7 @@
 # PollDaddy Hack
 
-The original file is created by Alex Beals, git username: dado3212
+The original file is created by Alex Beals, git username: dado3212.
+
 It was then edited to add tor functionality by Kenny McAvoy
 
 
