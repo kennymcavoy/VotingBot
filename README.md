@@ -1,5 +1,9 @@
 # PollDaddy Hack
 
+The original file is created by Alex Beals, git username: dado3212
+It was then edited to add tor functionality by Kenny McAvoy
+
+
 This is pretty easy to use.  Just download the Python script, and customize the variables for what form/answer/number of votes.
 Be sure to add your tor hash password found in torrc file.  
 
